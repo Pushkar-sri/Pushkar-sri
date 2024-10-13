@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pushkar Srivastava
-- 👀 I’m interested in Web Designing.
-- 🌱 I’m currently learning Full Stack Web Development.
-- 💞️ I’m looking to collaborate with Front-End Development Projects. 
+- 👀 I’m interested in Quality Analyst.
+- 🌱 I’m currently learning Cucumber Framework.
+- 💞️ I’m looking to collaborate with Selenium Projects. 
 - 📫 You can reach me through my mail:pushkarsrivastava03@gmail.com
                                Mob-+91 8299462347
 
